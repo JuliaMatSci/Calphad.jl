@@ -1,3 +1,4 @@
 theme: jekyll-theme-minimal
 markdown: kramdown
-logo: ../Calphad.jl.png
+logo: Calphad.jl/Calphad.jl.png
+    
